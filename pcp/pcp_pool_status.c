@@ -19,7 +19,7 @@
  *
  * Client program to send "pool status" command.
  */
-
+#include "config.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -19,7 +19,7 @@
  *
  * Client program to send "process count" command.
  */
-
+#include "config.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
